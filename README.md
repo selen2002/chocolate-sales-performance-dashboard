@@ -1,4 +1,4 @@
-# 🍫 Chocolate Sales & Revenue Performance Dashboard
+# Chocolate Sales & Revenue Performance Dashboard
 
 An interactive Power BI dashboard analyzing sales performance, revenue trends, top-performing sales reps, and regional shipment distributions.
 
