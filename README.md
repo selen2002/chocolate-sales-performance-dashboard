@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing sales performance, revenue trends, top-performing sales reps, and regional shipment distributions.
 
-![Dashboard Preview](chocolate_dashboard_preview.jpg.jpg)
+![Dashboard Preview](chocolate_dashboard_preview.jpg)
 
 ## Key Metrics & Business Insights
 - **Revenue & Volume KPIs:** Tracks Total Amount ($18M), Total Boxes (1M), Total Customers (529K), and Total Orders (3K).
